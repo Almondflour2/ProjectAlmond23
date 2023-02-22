@@ -1,0 +1,15 @@
+.container {
+    max-width: 40%;
+    margin-left: 15%;
+}
+.topic-h3 {
+    background-color: aqua;
+    font-family: "Zen Kaku Gothic New", sans-serif;
+    color: blueviolet;
+}
+.content {
+    transition: opacity 1s;
+}
+.content-text {
+    transition: opacity 1s;
+}
