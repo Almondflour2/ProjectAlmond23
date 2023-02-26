@@ -1,15 +1,30 @@
 .container {
     max-width: 40%;
     margin-left: 15%;
+    font-family: "Zen Kaku Gothic New", sans-serif;
 }
 .topic-h3 {
     background-color: aqua;
     font-family: "Zen Kaku Gothic New", sans-serif;
-    color: blueviolet;
+    width: 100%;
+}
+.topic-h3 > p {
+    display: inline-block;
 }
 .content {
-    transition: opacity 1s;
+    transition: opacity 3s;
+    font-weight: bold;
+}
+button {
+    width: 100%;
+    margin-bottom: 1rem;
 }
 .content-text {
     transition: opacity 1s;
+}
+::-webkit-scrollbar {
+    width: 0px;
+}
+.mission {
+    color: orangered;
 }
