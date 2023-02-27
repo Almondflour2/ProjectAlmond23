@@ -52,7 +52,7 @@ const IndexPage = () => {
             <p>Sitemap Design +</p>
             <StaticImage alt="sitemap mockup" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c2f6e3bc-baf6-4f8e-81e3-b50e84719d8c/Portfolio_Sitemap.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230222%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230222T161048Z&X-Amz-Expires=86400&X-Amz-Signature=c198ecaf9f6b0eaf3036d31fa11f4e52a4b32764d2858e81f072f9788dd7a275&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Portfolio%2520Sitemap.png%22&x-id=GetObject"/>
             </Content>
-            <footer>2023 Isabella Lawson (github link)</footer>
+            <footer>2023 Isabella Lawson <a href="https://github.com/Almondflour2/ProjectAlmond23">Github Link</a></footer>
         </Layout>
     )
 }
