@@ -11,6 +11,7 @@
 }
 .topic-h3 > p {
     display: inline-block;
+    font-weight: bold;
 }
 .content {
     transition: opacity 3s;
