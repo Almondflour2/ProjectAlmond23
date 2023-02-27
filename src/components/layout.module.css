@@ -2,6 +2,7 @@
     max-width: 40%;
     margin-left: 15%;
     font-family: "Zen Kaku Gothic New", sans-serif;
+    font-weight: bold;
 }
 .topic-h3 {
     background-color: aqua;
@@ -13,7 +14,6 @@
 }
 .content {
     transition: opacity 3s;
-    font-weight: bold;
 }
 button {
     width: 100%;
