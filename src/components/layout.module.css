@@ -1,15 +1,19 @@
+* {
+    background-color: #d5f4ee;
+}
 .container {
-    max-width: 40%;
-    margin-left: 15%;
+    max-width: 70%;
+    margin: auto;
     font-family: "Zen Kaku Gothic New", sans-serif;
     font-weight: bold;
 }
 .topic-h3 {
-    background-color: aqua;
+    background-color: #76d1b2;
     font-family: "Zen Kaku Gothic New", sans-serif;
     width: 100%;
 }
 .topic-h3 > p {
+    background-color: #76d1b2;
     display: inline-block;
     font-weight: bold;
 }
@@ -19,6 +23,7 @@
 button {
     width: 100%;
     margin-bottom: 1rem;
+    text-align: left;
 }
 .content-text {
     transition: opacity 1s;

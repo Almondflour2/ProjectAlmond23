@@ -7,7 +7,7 @@ const IndexPage = () => {
     
     return (
         <Layout popcorn="ProjectAlmond23">
-            <h3>SPRING 2023</h3>
+            <h3>WINTER 2023</h3>
             <h1>PORTFOLIO SITE BLUEPRINT</h1>
             <h1>Isabella Lawson</h1>
             {/* <p><button onClick={() => useTargetButtonRef(mission).current.click()}>MISSION</button> + Features + Timeline + Sitemap Design</p> */}
@@ -49,7 +49,7 @@ const IndexPage = () => {
             </ul>
             </Content>
             <Content topic="Sitemap">
-            <StaticImage alt="sitemap mockup" src="../images/portfoliositemap.png"/>
+            <StaticImage alt="sitemap mockup" src="https://raw.githubusercontent.com/Almondflour2/ProjectAlmond23/main/src/images/PortfolioSitemap.png"/>
             </Content>
             <footer>2023 Isabella Lawson <a href="https://github.com/Almondflour2/ProjectAlmond23">Github Link</a></footer>
         </Layout>
